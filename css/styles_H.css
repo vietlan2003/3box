@@ -1,0 +1,15 @@
+.red_box{
+    background-color: red;
+}
+.yellow_box{
+    background-color: yellow;
+}
+.green_box{
+    background-color: green;
+}
+div
+{
+    width: 200px;
+    height: 200px;
+    display: inline-block;
+}

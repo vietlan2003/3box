@@ -1,0 +1,16 @@
+.green_box{
+    background-color: green ;
+}
+.red_box{
+    background-color: red;
+    margin-left: 200px;
+}
+.yellow_box{
+    background-color: yellow;
+    margin-left: 400px;
+}
+div
+{
+    width: 200px;
+    height: 200px;
+}
